@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>32847041234-majcu6o18vhce3q8ote7vggbqd4gj3hl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.32847041234-majcu6o18vhce3q8ote7vggbqd4gj3hl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIKrY8Q4y7sldH5ml7l4JRE9aawc0FkLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>32847041234</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.yTodo</string>
+	<key>PROJECT_ID</key>
+	<string>ya-todo-molecula</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ya-todo-molecula.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:32847041234:ios:762d98e30127c26176530b</string>
+</dict>
+</plist>

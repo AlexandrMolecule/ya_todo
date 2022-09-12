@@ -1,0 +1,22 @@
+{
+    "helloWorld": "Hello World!",
+    "authError": "Auth error, check your token",
+    "myTasks": "My tasks",
+    "complete": "Completed - ",
+    "empty": "Can't find your tasks, let's create new one!",
+    "newTask": "New",
+    "textRequired": "Text is required",
+    "navigationError": "There is navigation error",
+    "editTextHint": "What i have to do...",
+    "editImportance": "Importance",
+    "editDeadline": "Make it to",
+    "basicImp": "None",
+    "lowImp": "Low",
+    "highImp": "High",
+    "delete": "Delete",
+    "save": "Save"
+    
+
+
+
+}
